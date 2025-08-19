@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Wedding Planning",
+    "description": "LuxeMoments Events creates dream weddings tailored to your vision. From venue selection to bespoke décor, we handle every detail with elegance. Our expert planners ensure a stress-free experience, delivering stunning ceremonies and receptions that reflect your love story, making your special day truly unforgettable.",
+    "image": "/images/wedding-decor-table-setting.webp"
+  },
+  {
+    "title": "Corporate Events",
+    "description": "Elevate your brand with LuxeMoments’ corporate event planning. We design professional conferences, galas, and team-building events with precision. From sleek décor to seamless logistics, we create impactful experiences that impress clients and colleagues, ensuring your event aligns with your business goals.",
+    "image": "/images/corporate-event-stage-backdrop.webp"
+  },
+  {
+    "title": "Event Décor",
+    "description": "Transform any space with LuxeMoments’ bespoke event décor. Our creative team crafts stunning floral arrangements, lighting, and themed setups that captivate guests. Tailored to your style and budget, our décor elevates weddings, parties, and corporate events into visually spectacular experiences.",
+    "image": "/images/wedding-decor-floral-arch.webp"
+  },
+  {
+    "title": "Event Coordination",
+    "description": "LuxeMoments ensures flawless event execution with expert coordination. We manage timelines, vendors, and logistics, so you can enjoy your event worry-free. From setup to teardown, our meticulous approach guarantees a seamless experience, making your celebration or corporate gathering a resounding success.",
+    "image": "/images/event-planning-vendor-setup.webp"
+  }
+]
